@@ -4,7 +4,7 @@
     <img src="http://git-assets.react-starter-kit.com/logo.png">  
 </p>
 
-### [Online Demo](https://react-chatapp-frontend.herokuapp.com)
+### [Online Demo](https://angesh.netlify.app/)
 
 As the Demo is hosted on a free Heroku account, the servers its hosted on enter ‘sleep mode’ when not in use. If you notice a delay, please allow a few seconds for the servers to wake up.
 
